@@ -14,3 +14,6 @@ this project give us data about sharing bikes in chicago, new york city Washingt
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 https://youtu.be/_uQrJ0TkZlc
+
+### purpose of this project 
+this project can help in making a system help people to rent a bikes
