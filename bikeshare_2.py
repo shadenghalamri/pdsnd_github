@@ -119,7 +119,10 @@ def user_stats(df):
 
 def concloution ():
     print("hope that you're find this project is good")
-
+    
+def Info ():
+    print("this program writing by shaden alamri ")
+    
 def main():
     while True:
         city, month, day = get_filters()
